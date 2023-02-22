@@ -1,8 +1,8 @@
 package edu.mario.estudo;
 
-public class VariaveisTipos {
+public class Operadores {
     
     public static void main(String[] args) {
-        System.out.print("ola mundo");
+        System.out.print("ola mundo de bob");
     }
 }

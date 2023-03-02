@@ -3,11 +3,9 @@ package loops.exercicio;
 
 import java.util.Scanner;
 
-import java.util.Scanner;
-
 public class Ex1_NomeEIdade {
         public static void main(String[] args) {
-            //System.out.println("teste");
+            
             Scanner scan = new Scanner(System.in);
 
             String nome;

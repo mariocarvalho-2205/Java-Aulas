@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EX4_ImparEPar",
+            "request": "launch",
+            "mainClass": "loops.exercicio.EX4_ImparEPar",
+            "projectName": "Java-Aulas_311c3758"
+        },
+        {
+            "type": "java",
+            "name": "Ex3_MaiorEMedia",
+            "request": "launch",
+            "mainClass": "loops.exercicio.Ex3_MaiorEMedia",
+            "projectName": "Java-Aulas_311c3758"
+        },
+        {
+            "type": "java",
             "name": "Launch ValidaOperadores",
             "request": "launch",
             "mainClass": "ValidaOperadores",

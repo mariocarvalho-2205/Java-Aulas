@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex6_Fatorial",
+            "request": "launch",
+            "mainClass": "loops.exercicio.Ex6_Fatorial",
+            "projectName": "Java-Aulas_311c3758"
+        },
+        {
+            "type": "java",
             "name": "Ex5_Tabuada",
             "request": "launch",
             "mainClass": "loops.exercicio.Ex5_Tabuada",

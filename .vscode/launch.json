@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex5_Tabuada",
+            "request": "launch",
+            "mainClass": "loops.exercicio.Ex5_Tabuada",
+            "projectName": "Java-Aulas_311c3758"
+        },
+        {
+            "type": "java",
             "name": "EX4_ImparEPar",
             "request": "launch",
             "mainClass": "loops.exercicio.EX4_ImparEPar",

@@ -1,6 +1,5 @@
 package loops.exercicio;
 
-import java.net.SocketPermission;
 import java.util.Scanner;
 
 public class Ex6_Fatorial {

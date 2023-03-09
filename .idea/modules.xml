@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Aulas.iml" filepath="$PROJECT_DIR$/.idea/Java Aulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-anatomia-classes/java-anatomia-classes.iml" filepath="$PROJECT_DIR$/java-anatomia-classes/java-anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-argumentos/java-argumentos.iml" filepath="$PROJECT_DIR$/java-argumentos/java-argumentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-loops-e-arrays/java-loops-e-arrays.iml" filepath="$PROJECT_DIR$/java-loops-e-arrays/java-loops-e-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-metodos/java-metodos.iml" filepath="$PROJECT_DIR$/java-metodos/java-metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-operadores/java-operadores.iml" filepath="$PROJECT_DIR$/java-operadores/java-operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-operadores-relacionais/java-operadores-relacionais.iml" filepath="$PROJECT_DIR$/java-operadores-relacionais/java-operadores-relacionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-sistema-smart/java-sistema-smart.iml" filepath="$PROJECT_DIR$/java-sistema-smart/java-sistema-smart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/java-terminal/java-terminal.iml" />
+    </modules>
+  </component>
+</project>

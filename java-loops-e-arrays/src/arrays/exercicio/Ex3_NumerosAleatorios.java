@@ -15,7 +15,7 @@ public class Ex3_NumerosAleatorios {
 		};
 
 		for (int i : numerosAleatorios) {
-			System.out.println("Sucessor de " + i + " é " + (i + 1));
+			System.out.println("Sucessor de " + i + " é " + (i + 1) + " -> Seu antecessor é " + (i - 1));
 		}
 	}    
 }

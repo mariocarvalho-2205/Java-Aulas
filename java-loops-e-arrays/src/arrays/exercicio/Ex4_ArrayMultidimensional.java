@@ -17,10 +17,12 @@ public class Ex4_ArrayMultidimensional {
             }
         }
 
+        System.out.println("matriz: ");
         for (int[] linha : matriz) {
             for (int coluna : linha) {
-                System.out.println(" coluna " + coluna);
+                System.out.print(coluna + " ");
             }
+            System.out.println();
         }
 
     }    

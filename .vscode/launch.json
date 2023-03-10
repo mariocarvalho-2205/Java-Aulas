@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex3_NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "arrays.exercicio.Ex3_NumerosAleatorios",
+            "projectName": "Java Aulas_e2e82123"
+        },
+        {
+            "type": "java",
             "name": "Ex2_consoantes",
             "request": "launch",
             "mainClass": "arrays.exercicio.Ex2_consoantes",
